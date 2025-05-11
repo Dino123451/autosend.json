@@ -1,0 +1,2 @@
+# autosend.json
+Apiautosendkai
